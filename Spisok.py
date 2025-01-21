@@ -1,6 +1,3 @@
-version = (v1.0.0)
-
-#meta banner: https://envs.sh/gQg.jpg
 # meta developer: @holy16rus
 
 from telethon.tl.types import Message 
